@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <string name="login_or_register">Login / Register</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="login_button">Existing User?<br/>Login</string>
+    <string name="register_button">New User?<br/>Register</string>
+    <string name="welcome_header">Welcome to Garg Shoes</string>
+    <string name="welcome_text">Thanks for choosing Garg Shoes Store!
+        \n\nHere, we have an assorted collection of shoes curated from best brands across the globe
+        at highly affordable prices just for you.
+        \n\nSo, what are you waiting for?
+        \nGo explore the fantastic shoes that we have and pick the one best for you.
+    </string>
+    <string name="instructions_header">Instructions</string>
+    <string name="instructions_text">• Next Screen Shows the list of Shoes available.
+        \n\n• You can add more shoes by clicking on the Floating Action Button, i.e, the (+) icon.
+        \n\n• On clicking it, a new screen will come up where you can add the relevant shoe details.
+    </string>
+    <string name="proceed_button">Proceed</string>
+    <string name="add_shoe_button">Add Shoe</string>
+    <string name="add_shoe_header">Add Shoe Details</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">Enter Shoe Name</string>
+    <string name="size_label">Size</string>
+    <string name="size_hint">Enter Shoe Size</string>
+    <string name="company_label">Company</string>
+    <string name="company_hint">Enter Shoe Company</string>
+    <string name="desc_label">Description</string>
+    <string name="desc_hint">Enter Description</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_company">Company: %s</string>
+    <string name="shoe_size">Size: %.2f</string>
+    <string name="shoe_desc">Shoe Description</string>
+    <string name="logout">Logout</string>
+    <string name="login_failure">Invalid email or password</string>
+    <string name="register_failure">Already Registered!</string>
+    <string name="empty_fields">Both email and password and mandatory</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Instructions</string>
+    <string name="shoe_inventory">Shoe Inventory</string>
+    <string name="shoe_details">Shoe Details</string>
+</resources>
